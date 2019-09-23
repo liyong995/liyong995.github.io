@@ -1,0 +1,36 @@
+{
+    "content": [
+        {
+            "name": "FaceCluster",
+            "androidQR": "http://15.27.186.56/AppDownload/Android/FaceCluster_1.0.7_0312_no_license.apk",
+            "iphoneQR": "",
+            "androidLink":"http://15.27.186.56/AppDownload/Android/FaceCluster_1.0.7_0312_no_license.apk",
+            "iphoneLink":"http://15.27.186.56/AppDownload/IOS/FaceCluster_v1.0.4.ipa",
+            "desc": "FaceCluster App can detect face from image file, extract face feature,classify each person's faces and ouput them to individual group."
+        },
+        {
+            "name": "FaceAR",
+            "androidQR": "http://15.27.186.56/AppDownload/Android/FaceAR_1.0.2_0116.apk",
+            "iphoneQR": "",
+            "androidLink":"http://15.27.186.56/AppDownload/Android/FaceAR_1.0.2_0116.apk",
+            "iphoneLink":"",
+            "desc": "FaceAR App can detect faces from camera, video or image and attach a mask face picture. the output is an image or a video buffer with mask face picture."
+        },
+        {
+            "name": "Layout",
+            "androidQR": "http://15.27.186.56/AppDownload/Android/LayoutApp_1.0.3_0122.apk",
+            "iphoneQR": "",
+            "androidLink":"http://15.27.186.56/AppDownload/Android/LayoutApp_1.0.3_0122.apk",
+            "iphoneLink":"http://15.27.186.56/AppDownload/IOS/LayoutApp_1.0.0_0429.ipa",
+            "desc": "Layout App can put your photos together for a unique layout."
+        },
+		{
+		    "name": "PhotoCuration",
+            "androidQR": "http://15.27.186.56/AppDownload/Android/PhotoCuration.apk",
+            "iphoneQR": "",
+            "androidLink":"http://15.27.186.56/AppDownload/Android/PhotoCuration.apk",
+            "iphoneLink":"http://15.27.186.56/AppDownload/IOS/PhotoCuration.ipa",
+            "desc": "PhotoCuration App can classify pictures according to their location information and shooting time. Detect face from image file, extract face feature,classify each person's faces and ouput them to individual group. Recommend the best quality pictures based on people groups."
+		}
+    ]
+}
